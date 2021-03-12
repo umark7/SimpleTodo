@@ -41,7 +41,7 @@ I did encounter a few hurdles while building the app but was able to resolve the
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Umar Kagzi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
