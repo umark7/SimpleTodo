@@ -18,12 +18,6 @@ The following **optional** features are implemented:
 
 * [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-* [ ] Improve the UI/UX of the app making it user-friendly and intuitive
-* [ ] Improve styling of buttons and text boxes shown to users
-* [ ] Make Toast messages easier for users to see (often a Toast message gets blocked by the keyboard)
 
 ## Video Walkthrough
 
@@ -31,7 +25,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
